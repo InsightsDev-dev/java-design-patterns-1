@@ -292,7 +292,7 @@
 				<artifactId>coveralls-maven-plugin</artifactId>
 				<version>${coveralls.version}</version>
 				<configuration>
-					<repoToken>jb6wYzxkVvjolD6qOWpzWdcWBzYk2fAmF</repoToken>
+					<repoToken>6cWot5lHLrPT1sSuOcZYoDajFkFBghPZg</repoToken>
 				</configuration>
 			</plugin>
 			<plugin>
